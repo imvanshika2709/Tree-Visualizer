@@ -1,15 +1,15 @@
-/* General Page Styling */
+
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #f4f4f9; /* Light background color */
-  font-family: 'Roboto', sans-serif; /* Use Roboto or your preferred font */
+  background-color: #f4f4f9; 
+  font-family: 'Roboto', sans-serif; 
   color: #333;
   text-align: center;
 }
 
 header {
-  background-color: #333; /* Dark header */
+  background-color: #333; 
   color: #fff;
   padding: 1.5em;
   text-align: center;
@@ -42,7 +42,7 @@ input {
 
 /* Button Styling */
 button {
-  background-color: #007bff; /* Primary color for buttons */
+  background-color: #007bff; 
   color: white;
   padding: 0.5em 1em;
   font-size: 1em;
@@ -54,7 +54,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3; /* Darker blue on hover */
+  background-color: #0056b3; 
 }
 
 /* Content Box Styling */
@@ -80,16 +80,16 @@ button:hover {
   font-size: 1em;
 }
 
-/* SVG Container for Tree and Array */
+
 #my-binary-tree, #my-array-visual {
   margin: 2em auto;
   width: 100%;
   max-width: 800px;
 }
 
-/* Node Styling */
+
 circle {
-  fill: #4CAF50; /* Green nodes */
+  fill: #a881af; 
   stroke: #333;
   stroke-width: 2;
 }
